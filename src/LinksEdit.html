@@ -1,0 +1,12 @@
+<div class="form__group__item__container">
+    <ul>
+        <li class="base__cursor" ng-repeat="item in urls">
+            <span>{{item.name}}</span>
+            <ul>
+                <li ng-repeat="url in item.urls">
+                    <a href="{{url.url}}">{{url.url}}</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
