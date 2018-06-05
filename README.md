@@ -1,6 +1,12 @@
 # LitiumLinksField
 
-Field definition for Litium PIM to show all links where a product is published
+Field definition for Litium PIM to show all links where a product/category is published.
+
+A similar view was avaliable in Litium before version 5 but has now been removed. Useful also to display all valid URL's that a product/category has.
+
+Example:
+
+![Links field example](/screenshots/linksfield.png?raw=true "Links field example") 
 
 ## Installation instructions
 
